@@ -1,5 +1,5 @@
 # compbiolab
-compbiolab Python module
+CompBioLab Python module
 
 ## What is CompBioLab python module?
 
