@@ -1,4 +1,4 @@
-# compbiolab
+# compbiolab_v0.1.4
 CompBioLab Python module
 
 ## What is CompBioLab python module?
