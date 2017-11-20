@@ -12,3 +12,5 @@ The CompBioLab python module is a python library that has several functions that
 - compbiolab.plot_dist()
 - compbiolab.plot_kde()
 - compbiolab.read_pdb()
+- get_color()
+- get_random_color()
