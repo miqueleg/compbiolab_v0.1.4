@@ -1,4 +1,4 @@
-# compbiolab_v0.1.4
+# compbiolab_v0.1.5
 CompBioLab Python module
 
 ## What is CompBioLab python module?
@@ -14,3 +14,4 @@ The CompBioLab python module is a python library that has several functions that
 - compbiolab.read_pdb()
 - compbiolab.get_color()
 - compbiolab.get_random_color()
+- compbiolab.calculate_rmsf()
